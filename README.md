@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Oualid-CHAOUATI
-- 👀 I’m interested in web developpment
+- 👀 I’m interested in web development
 - 🌱 I’m currently learning reactJS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
